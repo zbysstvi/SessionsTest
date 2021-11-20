@@ -1,0 +1,1 @@
+"D:\UE5\UE_5.0EA\Engine\Binaries\Win64\UnrealEditor.exe" "D:\UE5\SessionsTest\SessionsTest.uproject" -game -ResX=1366 -ResY=768 -WinX=0 -WinY=20 -log
